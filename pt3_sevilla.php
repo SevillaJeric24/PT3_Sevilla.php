@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        .h1{color:blue}
-        .label{color:blue}
-.body{background:color:blue}
-</style>
+  
     <title>CD Store Discount</title>
 </head>
 <body>
