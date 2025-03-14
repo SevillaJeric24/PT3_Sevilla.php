@@ -10,7 +10,7 @@ body {
   width: 300px;
   margin: 20px auto;
   padding: 20px;
-  border: 5px solid #ccc;
+  border: 5px solid #0c0d0c;
 background-color:lightgreen;}
 </style>
 </head>
